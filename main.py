@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 # OS é pra mexer com arquivos e pastas do comput
 import os
-import base64
 
 # Configuração viual da página
 st.set_page_config(
